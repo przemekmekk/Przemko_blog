@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b1cdfea-620b-4301-99be-c0fad2c4d281" name="Changes" comment="Change sqlite to postgres">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2b1cdfea-620b-4301-99be-c0fad2c4d281" name="Changes" comment="Change sqlite to postgres ver 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665090965001</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Change sqlite to postgres ver 2">
+      <created>1665245506209</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665245506209</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -120,6 +125,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Change sqlite to postgres" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change sqlite to postgres" />
+    <MESSAGE value="Change sqlite to postgres ver 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change sqlite to postgres ver 2" />
   </component>
 </project>
